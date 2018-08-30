@@ -1,9 +1,8 @@
-# token
 <h1>KIMEX Token (KMX) and Sale Smart Contract (S.S.C)</h1>
 Our smart contract’s designed and developed based on ERC20 standard followed strict procedure of software development from requirement analyzing, designing, developing, unit and business testing, auditing and deploying. The code’s simplified and optimized for both of business and coding quality criteria.
 
 <h1>Links and references</h1>
-<a href="" target="_blank">Github official contract issue tracker and source code</a>
+<a href="" target="_blank">Github official contract issue tracker and source code</a> <br/>
 <a href="https://ico.readthedocs.io/en/latest/" target="_blank">Solidity documentation for coding standard and optimization</a>
 
 <h1>Outstanding features</h1>
