@@ -15,11 +15,5 @@ Our smart contract passed so many strict testing rounds as automatic and manual 
 •	Transparent
 Our smart contract and token were verified and published to community through EtherScan.io officially with enough project information.
 
-•	Revoke
-Ensure all public investors must pass KYCAML verification totally, our smart contract have this feature to revoke tokens and refund for not completed KYC investors.
-
-• Refund
-The investors can claim refund from smart contract if our ICO can’t reach the soft cap.
-
 • Vest
-After finishing ICO, The tokens allocated to founder and team will be locked by smart contract and just vested gradually lasting for 1 year, besides that our contract also lock all remaining sale tokens for 2 years.
+After finishing ICO, The tokens allocated to founder and team will be locked by smart contract and just vested gradually lasting for 1 year
